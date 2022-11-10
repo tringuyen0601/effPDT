@@ -1,0 +1,5 @@
+Number of State: 11
+Number of Transition: 14
+Number of Stack: 4
+Number of Input Stream: 2
+Number of Output Stream: 2

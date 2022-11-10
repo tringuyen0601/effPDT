@@ -1,0 +1,6 @@
+Number of Input: 1
+Input   0:  ./input/g7jac160_csr_ind_B
+Number of Output: 1  
+Output  0:  ./testcases/gv_encode/gve_output/Trec12.txt
+Benchmark : GV_ENCODE
+Monitor Config  : ./experiment1/papi_config/sys_perf_config.txt

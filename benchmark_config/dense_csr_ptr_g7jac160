@@ -1,0 +1,8 @@
+Number of Input:  2
+Input   0:  ./input/g7jac160_dense_meta_B
+Input   1:  ./input/g7jac160_dense_36_B
+Number of Output: 2  
+Output  0:  ./testcases/dense_csr/dense_csr_output/Trec12_csr_meta.txt
+Output  1:  ./testcases/dense_csr/dense_csr_output/Trec12_csr_ptr.txt
+Benchmark : DENSE_CSR_PTR
+Monitor Config  : ./experiment1/papi_config/sys_perf_config.txt

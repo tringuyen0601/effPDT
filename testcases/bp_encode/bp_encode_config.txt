@@ -1,0 +1,6 @@
+Number of State: 17
+Number of Transition: 17
+Number of Stack: 3
+Number of Input Stream: 1
+Number of Output Stream: 1
+Arithmetic State: 12

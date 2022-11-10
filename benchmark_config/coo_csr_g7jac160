@@ -1,0 +1,9 @@
+Number of Input:  2
+Input   0:  ./input/g7jac160_coo_meta_B
+Input   1:  ./input/g7jac160_coo_row_B
+Number of Output: 2  
+Output  0:  ./testcases/coo_csr/coo_csr_output/g7jac160_csr_meta.txt
+Output  1:  ./testcases/coo_csr/coo_csr_output/g6jac160_csr_ptr.txt
+Benchmark : COO_CSR
+Monitor Config  : ./experiment1/papi_config/sys_perf_config.txt
+

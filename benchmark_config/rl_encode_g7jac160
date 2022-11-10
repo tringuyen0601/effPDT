@@ -1,0 +1,10 @@
+Number of Input: 1
+Input  0:  ./input/g7jac160_csr_ind_B
+Number of Output: 1  
+Output  0:  ./testcases/rle_encode/rle_output/Trec12.txt
+Benchmark : RLE_ENCODE_OPT
+Monitor Config  : ./experiment1/papi_config/sys_perf_config.txt
+
+
+Output  0:  ./testcases/sparse_matrix/rldMatrix/Trec12.txt
+Input  0:  ./testcases/rle_encode/rle_input/input_gpu_B
